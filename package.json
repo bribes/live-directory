@@ -31,6 +31,6 @@
     "author": "kartikk221",
     "license": "MIT",
     "dependencies": {
-        "chokidar": "^3.5.2"
+        "chokidar": "^4.0.0"
     }
 }
